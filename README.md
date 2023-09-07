@@ -1,21 +1,34 @@
-# Data3406-Assignment
-This project aims to use step count data from the fitbit watch to determine whether ....
+# Data3406-Assignment 2 - Individual Checkpoint 1 
+ - Group Id: CC04, Group 1 - 
 
-Driving Question ....
+** Driving Problem: **
 
-Starts with an introduction stating (1) the driving question (2) why it is important. (One sentence each)
+** Work for the checkpoint: **
+The general work for this checkpoint is mostly individual, with the personal coding for three different individuals in the study. For my jupyter notebook I looked at the participants who had the Ids: 1503960366, 1624580081 and 1844505072. I analysed the average step counts for all three individuals, while also looking at the mean, median, max and min step counts for all three unique Ids. 
 
-List of the team member names, roles such as Manager, Tracker and a link to their Personal Planning and Progress Github wiki page; 
+(2) a link to notebook(s) you committed to Github with your code for data exploration.
+Make sure the link is to the commit made before the deadline. (You can link to a Github file at a specific commit by: (1) click on the file, (2) click on the "History" button/ link, (3) copy the URL of the title for the commit you want.)
+Please add a brief description of the notebook.
 
-Then there is one section for each aspect in the rest of this specification.
+(3) links to the associated Github Issues assigned to you for this stage of the Assignment 2 work.
 
-2. Ethical analysis
-README has a section on this.
+(4) a table that summarises your allocated work
+short description
+status: (complete, not done, or todo)
+a brief comment as needed (e.g. explain why a task was not done)
 
-Stakeholder Analysis which lists at least 2 key stakeholders. For each it has (1) a brief description of the stakeholder (2) why they are a key stakeholder, (3) the potential benefits and (4) risks for them. 
+Description   | Status
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
-Data Characterisation of the raw data. This should have a short description of the following aspects (1) high level description of the data, with a well chosen, small example and explanation of why you chose it (2) the amount of data in terms of the number of people and data for each person (3) data resolution (4) accuracy (5) uncertainty and completeness.
+(5) a statement about all help you received in:
 
-Data ownership, access and privacy. (1) Short description and (2) implications.
+manually scrutinising the data
+writing the code
+debugging code
+interpreting the data
+(include all help from team members, other people, online resources, GAI)
 
-Based on the nature of the problem and the data, (1) consider how well it can answer the driving problem (2) how this may affect the two key stakeholder group above. 
+
+
