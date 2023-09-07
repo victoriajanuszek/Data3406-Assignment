@@ -17,10 +17,8 @@ Github issues that were assigned
 
 | Description    | Status   | Comment(s)   |
 | :---:          | :---:    | :---:        |
-| Personal Coding| Complete |              |
- notebook on the 
- three different 
- individuals                  
+| Personal Coding note book on the three different individuals | Complete |              |
+                   
 
 **statement about all help you received in:**
 manually scrutinising the data
