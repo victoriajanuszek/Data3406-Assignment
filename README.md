@@ -31,16 +31,17 @@ interpreting the data
 
 As said above, the (Tang et al., 2018) paper was read and analysed to conduct different data analysis and improve adherence of the data. Alongide this paper, scrutinising the data was supplied by the DATA3406 unit coordinator and tutors, as they provided the datasets to use in the assignment. For the driving problem: ....... it was can be scrutinised that the .... dataset(s) are the best to use. 
 
-_References for online resources that were used to clean the data_
+**_References for online resources that were used to clean the data_**
 In order to complete the personal coding jupyter notebook for the Individual Checkpoint one a range of different online resources were used to help debunk the code, and understand any errors that may have occured. 
 If an issue occured, StackOverFlow was used to help understand the error, alongside the website GeeksforGeeks, to help improve the code. Excel was also used to gain a full oversight of the data, and to just gain a general understanding of the overall structure of the data before any data analysis was used.
 
-Following Websites were used:
-1. https://sparkbyexamples.com/numpy/numpy-count-nonzero-values-in python/#:~:text=NumPy%20count_nonzero()%20function%20in,arr%20%2C%20axis%20%2C%20and%20keepdims%20.
+_Following Websites were used:_
+https://sparkbyexamples.com/numpy/numpy-count-nonzero-values-in python/#:~:text=NumPy%20count_nonzero()%20function%20in,arr%20%2C%20axis%20%2C%20and%20keepdims%20.
 
 
 Additionally, to make the README.md file easier to understand, github help websites were used to find functions to help make the file more appealing (such as making text bold, or creating a table)
-1. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 _Papers Used:_
 Lie Ming Tang, Jochen Meyer, Daniel A. Epstein, Kevin Bragg, Lina Engelen, Adrian Bauman, and Judy Kay.2018. Defining Adherence: Making Sense of Physical Activity Tracker Data. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 1, Article 37 (March 2018), 22 pages. https://doi.org/10.1145/3191769
