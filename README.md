@@ -1,6 +1,6 @@
 # Data3406-Assignment 2 - Individual Checkpoint 1 
 ### Group Id: CC04, Group 1
-### Individual Checkpoint README for 510425788
+#### Individual Checkpoint README for 510425788
 
 **Driving Problem:**
 
