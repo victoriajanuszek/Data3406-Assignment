@@ -29,6 +29,8 @@ debugging code
 interpreting the data
 (include all help from team members, other people, online resources, GAI)
 
+As said above, the (Tang et al., 2018) paper was read and analysed to conduct different data analysis and improve adherence of the data. Alongide this paper, scrutinising the data was supplied by the DATA3406 unit coordinator and tutors, as they provided the datasets to use in the assignment. For the driving problem: ....... it was can be scrutinised that the .... dataset(s) are the best to use. 
+
 _References for online resources that were used to clean the data_
 In order to complete the personal coding jupyter notebook for the Individual Checkpoint one a range of different online resources were used to help debunk the code, and understand any errors that may have occured. 
 If an issue occured, StackOverFlow was used to help understand the error, alongside the website GeeksforGeeks, to help improve the code. Excel was also used to gain a full oversight of the data, and to just gain a general understanding of the overall structure of the data before any data analysis was used.
