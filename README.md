@@ -1,5 +1,6 @@
 # Data3406-Assignment 2 - Individual Checkpoint 1 
 ### Group Id: CC04, Group 1
+### Individual Checkpoint README for 510425788
 
 **Driving Problem:**
 
@@ -17,8 +18,8 @@ Github issues that were assigned
 
 | Description    | Status   | Comment(s)   |
 | :---:          | :---:    | :---:        |
-| Personal Coding note book on the three different individuals | Complete |              |
-                   
+| Personal Coding note book on the three different individuals| Complete |              |
+| Background research on supplied papers                      | Complete |                  
 
 **statement about all help you received in:**
 manually scrutinising the data
