@@ -38,6 +38,11 @@ Following Websites were used:
 Additionally, to make the README.md file easier to understand, github help websites were used to find functions to help make the file more appealing (such as making text bold, or creating a table)
 1. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+_Papers Used:_
+Lie Ming Tang, Jochen Meyer, Daniel A. Epstein, Kevin Bragg, Lina Engelen, Adrian Bauman, and Judy Kay.2018. Defining Adherence: Making Sense of Physical Activity Tracker Data. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 1, Article 37 (March 2018), 22 pages. https://doi.org/10.1145/3191769
+
+Consolvo, S., Everitt, K., Smith, I., & Landay, J. A. (2006, April). Design requirements for technologies that encourage physical activity. In Proceedings of the SIGCHI conference on Human Factors in computing systems (pp. 457-466). https://dl.acm.org/doi/abs/10.1145/1124772.1124840?casa_token=FH4Spj_vP9cAAAAA:swpRY-OpqjDbKgcjHX NqmaNck9SMxjpzDSSFusWK88WIgFE9pZqUNQZSvhEELkN7lXG1P30Teh_tkQ
+
 
 
 
