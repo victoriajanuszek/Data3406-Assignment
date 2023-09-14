@@ -3,8 +3,8 @@
 #### Individual Checkpoint README for 510425788
 
 ___
-
-**Driving Problem:**
+``diff
+- **Driving Problem:** <br>
 
 **Work for the checkpoint:** <br>
 The group agreed that the general work for this checkpoint is mostly individual, with the personal coding for three different individuals in the study. For my jupyter notebook I looked at the participants who had the Ids: 1503960366, 1624580081 and 1844505072. I analysed the average step counts for all three individuals, while also looking at the mean, median, max and min step counts for all three unique Ids. This would provide a general background of the data and provide an understanding of the data for Assignment 2. <br>
