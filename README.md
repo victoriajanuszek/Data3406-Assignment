@@ -39,7 +39,7 @@ Please add a brief description of the notebook.
 **links to the associated Github Issues assigned to you for this stage of the Assignment 2 work**. <br>
 Github issues that were assigned <br>
 
-[Link to Github issues ](https://gaganpreetkaurkalsi.netlify.app “Github issues that were assigned”) <br>
+[Link to Github issues ](https://github.com/victoriajanuszek/Data3406-Assignment/issues/1#issue-1895737841) “Github issues that were assigned”) <br>
 
 **A table that summarises your allocated work** <br>
 **_Table 1_** _Table showing the allocated work for this project, with a description, status and comments on the work_ <br>
