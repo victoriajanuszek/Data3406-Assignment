@@ -29,7 +29,7 @@ Table 1: Table showing the allocated work for this project <br>
 | Personal Coding note book on the three different individuals| Complete |  Data exploratory analysis on the 3 different datasets       |
 | Background research on supplied papers                      | Complete |  Gave an idea on how to deal with threshold values and adherence |                
 
-**statement about all help you received in:** <br>
+**Statement about all help you received in:** <br>
 manually scrutinising the data
 writing the code
 debugging code
@@ -40,6 +40,7 @@ As said above, the (Tang et al., 2018) paper was read and analysed to conduct di
 Additionally, the slides from week 6,7 and 8 were all used to in the data exploratory individual checkpoint notebook. <br>
 
 ___
+### References used in Checkpoint 1 
 
 **_References for online resources that were used to clean the data_** <br>
 In order to complete the personal coding jupyter notebook for the Individual Checkpoint one a range of different online resources were used to help debunk the code, and understand any errors that may have occured. <br>
