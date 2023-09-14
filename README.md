@@ -12,6 +12,7 @@ Additionally, before data exploratory analysis occurs, background research of th
 However, the group will discuss and agree the driving problem, and what data sets can be used to answer the driving problem. Additionally, the group will aim to set a timeline, a group GitHub and wiki link for "assignment 2"
 
 **a link to notebook(s) you committed to Github with your code for data exploration.**
+This notebook includes a data exploratory analysis and literate programming for three invididual Ids: 1503960366, 1624580081 and 1844505072 for the fitness tracker dataset
 Make sure the link is to the commit made before the deadline. (You can link to a Github file at a specific commit by: (1) click on the file, (2) click on the "History" button/ link, (3) copy the URL of the title for the commit you want.)
 Please add a brief description of the notebook.
 
