@@ -19,8 +19,8 @@ Github issues that were assigned
 
 | Description    | Status   | Comment(s)   |
 | :---:          | :---:    | :---:        |
-| Personal Coding note book on the three different individuals| Complete |              |
-| Background research on supplied papers                      | Complete |                  
+| Personal Coding note book on the three different individuals| Complete |  Data exploratory analysis on the 3 different datasets       |
+| Background research on supplied papers                      | Complete |  Gave an idea on how to deal with threshold values and adherence |                
 
 **statement about all help you received in:**
 manually scrutinising the data
