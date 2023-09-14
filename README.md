@@ -2,6 +2,8 @@
 ### Group Id: CC04, Group 1
 #### Individual Checkpoint README for 510425788
 
+___
+
 **Driving Problem:**
 
 **Work for the checkpoint:** <br>
