@@ -14,12 +14,17 @@ Additionally, before data exploratory analysis occurs, background research of th
 However, the group will discuss and agree the driving problem, and what data sets can be used to answer the driving problem. Additionally, the group will aim to set a timeline, a group GitHub and wiki link for "assignment 2"
 
 **A link to notebook(s) you committed to Github with your code for data exploration.** <br>
-This notebook includes a data exploratory analysis and literate programming for three invididual Ids: 1503960366, 1624580081 and 1844505072 for the fitness tracker dataset
+This notebook includes a data exploratory analysis and literate programming for three invididual Ids: 1503960366, 1624580081 and 1844505072 for the fitness tracker dataset <br>
+
+[Link to Individual Checkpoint Notebook ](https://gaganpreetkaurkalsi.netlify.app “Individual Checkpoint 1 Notebook”) <br>
+
 Make sure the link is to the commit made before the deadline. (You can link to a Github file at a specific commit by: (1) click on the file, (2) click on the "History" button/ link, (3) copy the URL of the title for the commit you want.)
 Please add a brief description of the notebook.
 
 **links to the associated Github Issues assigned to you for this stage of the Assignment 2 work**. <br>
-Github issues that were assigned
+Github issues that were assigned <br>
+
+[Link to Github issues ](https://gaganpreetkaurkalsi.netlify.app “Github issues that were assigned”) <br>
 
 **A table that summarises your allocated work** <br>
 **_Table 1_** _Table showing the allocated work for this project, with a description, status and comments on the work_ <br>
