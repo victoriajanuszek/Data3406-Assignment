@@ -41,7 +41,7 @@ Github issues that were assigned <br>
 
 [Link to Github issues ](https://github.com/victoriajanuszek/Data3406-Assignment/issues/2#issue-1895748097) These are the links to the specific Github issues that were assigned for this stage of assignment 2. <br>
 
-#### A table that summarises your allocated work** <br>
+#### A table that summarises your allocated work <br>
 **_Table 1_** _Table showing the allocated work for this project, with a description, status and comments on the work_ <br>
 
 | Description    | Status   | Comment(s)   |
