@@ -22,7 +22,7 @@ Please add a brief description of the notebook.
 Github issues that were assigned
 
 **A table that summarises your allocated work** <br>
-Table 1: Table showing the allocated work for this project <br>
+**_Table 1_** _Table showing the allocated work for this project, with a description, status and comments on the work_ <br>
 
 | Description    | Status   | Comment(s)   |
 | :---:          | :---:    | :---:        |
