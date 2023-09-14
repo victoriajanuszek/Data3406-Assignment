@@ -5,8 +5,11 @@
 **Driving Problem:**
 
 **Work for the checkpoint:**
-The general work for this checkpoint is mostly individual, with the personal coding for three different individuals in the study. For my jupyter notebook I looked at the participants who had the Ids: 1503960366, 1624580081 and 1844505072. I analysed the average step counts for all three individuals, while also looking at the mean, median, max and min step counts for all three unique Ids. This would provide a general background of the data and provide an understanding of the data for Assignment 2. 
-Additionally, before data exploratory analysis occurs, background research of the (Tang et al., 2018) paper was conducted, where it was assumed that any days or step counts that fell under a certian threshold (i.e less than 0) would be removed, to make the data adhere to the set criteria of assignment 2. 
+The group agreed that the general work for this checkpoint is mostly individual, with the personal coding for three different individuals in the study. For my jupyter notebook I looked at the participants who had the Ids: 1503960366, 1624580081 and 1844505072. I analysed the average step counts for all three individuals, while also looking at the mean, median, max and min step counts for all three unique Ids. This would provide a general background of the data and provide an understanding of the data for Assignment 2. 
+
+Additionally, before data exploratory analysis occurs, background research of the (Tang et al., 2018) paper was conducted, where it was assumed that any days or step counts that fell under a certian threshold (i.e less than 0) would be removed, to make the data adhere to the set criteria of assignment 2.
+
+However, the group will discuss and agree the driving problem, and what data sets can be used to answer the driving problem. Additionally, the group will aim to set a timeline, a group GitHub and wiki link for "assignment 2"
 
 **a link to notebook(s) you committed to Github with your code for data exploration.**
 Make sure the link is to the commit made before the deadline. (You can link to a Github file at a specific commit by: (1) click on the file, (2) click on the "History" button/ link, (3) copy the URL of the title for the commit you want.)
