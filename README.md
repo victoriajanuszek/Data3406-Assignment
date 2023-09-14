@@ -34,6 +34,7 @@ interpreting the data
 (include all help from team members, other people, online resources, GAI)
 
 As said above, the (Tang et al., 2018) paper was read and analysed to conduct different data analysis and improve adherence of the data. Alongide this paper, scrutinising the data was supplied by the DATA3406 unit coordinator and tutors, as they provided the datasets to use in the assignment. For the driving problem: ....... it was can be scrutinised that the .... dataset(s) are the best to use. 
+Additionally, the slides from week 6,7 and 8 were all used to in the data exploratory individual checkpoint notebook. 
 
 **_References for online resources that were used to clean the data_**
 In order to complete the personal coding jupyter notebook for the Individual Checkpoint one a range of different online resources were used to help debunk the code, and understand any errors that may have occured. 
