@@ -14,9 +14,10 @@ However, the group will discuss and agree the driving problem, and what data set
 
 There were some **_assumptions_** that I individually assigned myself to investigate in the data exploratory analysis, alongside the required tasks assigned for the assignment. 
 The assumptions that I personally investigated: <br>
-- all of the different Step Total values in all three of the datasets are in integers - there will be some minutes/hours were step count is 0 <br>
-- the daily max step count for the three Ids will be above 10,000 <br>
-- There will be many 0 values in the "minute" dataset <br>
+- all of the different step total values in all three of the datasets are in integers
+- there will be some minutes were step count is 0 
+- the max step count for the daily dataset for the three Ids will be above 10,000 
+- There will be many 0 values in the "minute" dataset <br> (Assume many is more then 100,000 individual values)
 - There will be no NA or NaN (missing values) in the minute datasets, ensuring data cleanliness in this file. <br>
 
 Additionally, there were some required code chunks for the three individual Ids investigating, for both the daily and the minute dataset <br>
